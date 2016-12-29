@@ -73,9 +73,9 @@ public class Ikinci_EkranRec extends Activity implements ContactsAdapter.OnItemC
 
     @Override
     public void onItemClick(View view, int position) {
-                 CharSequence charSequence = "";
+                 CharSequence charSequence1 = "";
                 Intent intent = new Intent(this, ActivityMain.class);
-                intent.putExtra("Key", charSequence);
+                intent.putExtra("Key", charSequence1);
                 startActivity(intent);
     }
 }
