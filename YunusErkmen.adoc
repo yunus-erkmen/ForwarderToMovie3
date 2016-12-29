@@ -1,4 +1,3 @@
-[%hardbreaks]
-*Yunus ERKMEN*
-130201082
+*Yunus ERKMEN*[%hardbreaks]
+*130201082*
 
