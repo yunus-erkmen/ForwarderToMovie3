@@ -13,5 +13,13 @@ Kullanıcı istediği filmi edittexte giriş yaparak ara butonuna basar.
 Bu xmlimizde web servis aracılığıyla çektiğimiz filmleri *RecyclerView* kullanarak kullanıcıya gösterdik.
 [%hardbreaks]
 *third_screen*
-
+third_screen xml inde 1 ImageView 8 Textview 1 Button kullandım. ImageView de kullanıcı tarafından girişi yapılan film isminin
+resmi gözüküyor. Textview ler de film hakkında ki açıklamalar gözüküyor ve kullanıcı isterde IMDB butonuna tıklayarak filmin
+IMDB sitesindek içeriklerine ulaşabiliyor.
+[%hardbreaks]
+*custom_row*
+Bu xmlde 3 adet Textview 1 adet CircleImageView kullanılmıştır.
+[%hardbreaks]
+*buton_tasarimi*
+Kullanıcı için film girişi istenilen first_screen xml inde kullanılmak üzere buton tasarımı yapılmıştır.
 
