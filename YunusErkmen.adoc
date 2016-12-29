@@ -6,4 +6,12 @@ Layoutların tasarımını gerçekleştirdiğim bu proje de 5 tane layoutumuz va
 third_screen.xml,custom_row.xml ve buton_tasarimi.xml
 [%hardbreaks]
 *first_screen*
+first_screen.xml imizde temel olarak bir edit text ve backgroundu buton_tasarimi.xml ile yapılmış bir butonumuz mevcuttur.
+Kullanıcı istediği filmi edittexte giriş yaparak ara butonuna basar.
+[%hardbreaks]
+*second_screen*
+Bu xmlimizde web servis aracılığıyla çektiğimiz filmleri *RecyclerView* kullanarak kullanıcıya gösterdik.
+[%hardbreaks]
+*third_screen*
+
 
