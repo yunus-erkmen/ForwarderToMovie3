@@ -25,11 +25,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Ara"
-        android:onClick="Tiklandi"
+        android:onClick="Tiklandi.."
         android:id="@+id/button1"
         android:layout_below="@+id/editText"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="60dp" />
+        android:layout_marginTop="60dp"
+        android:background="@drawable/buton_tasarimi" />
 
 
 </RelativeLayout>
