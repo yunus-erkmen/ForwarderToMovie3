@@ -1,0 +1,12 @@
+# ForwarderToMovie3
+Mobil Programlama Projesi
+*İlk sayfa google arama motoruna benzer temalı bir film arama aracı çıkıyor.
+  1-Edit text(Aranılan verinin girişi burada yapılıyor)
+  2-Button-Intent(Buttona basıldıktan sonra intent ile ikinci sayfaya geçiş sağlanıyor)
+İkinci sayfa aranan filmin ismi ile api den veriler çekilip listeleniyor.
+  1-Webservis için restful kullanıldı.
+  2-Recyclerview ile filmler listelendi.(Listview in farklı bir türevi.)
+  3-Adaptör tanımlandı
+Üçüncü sayfa listeden seçilen filmin detaylı bilgisi geliyor.(İsmi,Tarihi,Açıklaması,Poster)
+  1-Picasso kullandık poster için.
+  2-Webview kullandık filmin imdb de aranması için.*
