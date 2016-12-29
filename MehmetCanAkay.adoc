@@ -1,0 +1,2 @@
+*Recyclerview: Listview gibi verileri listelemeye yarıyor kullanımı daha kolay olduğu için tercih ediliyor.
+WebServis: Restful webservisi retrofit ile kullanarak internetten veri çektik.*
