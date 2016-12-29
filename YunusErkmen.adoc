@@ -2,5 +2,8 @@
 [%hardbreaks]
 [%hardbreaks]
 *Layoutların Tasarımı*
-Layoutların tasarımını
+Layoutların tasarımını gerçekleştirdiğim bu proje de 5 tane layoutumuz vardır.Bunlar first_screen.xml,second_screen.xml 
+third_screen.xml,custom_row.xml ve buton_tasarimi.xml
+[%hardbreaks]
+*first_screen*
 
