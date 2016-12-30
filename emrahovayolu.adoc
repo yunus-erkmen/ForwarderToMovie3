@@ -1,18 +1,14 @@
+= 120201118 Emrah OVAYOLU
 
-120201118 Emrah OVAYOLU
-
-Başka Bir Activity’yi Başlatmak
-
-Geçiş için gerekli kod
+== BASKA BIR ACTIVITY BASLATMAK
 
 Intent intent = new Intent(this, ikinci.class);
 
 import etme kodu
 
-import android.content.Intent;
-
-Ekran tasarımları yapıldı.
+== Ekran tasarımları yapıldı.
 
 buton ve edıttext gıbı tasarımlar
 
-web servise yardım edildi
+== web servise yardım edildi
+
